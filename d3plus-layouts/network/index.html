@@ -1,0 +1,71 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<style media="screen">
+#text {
+  width: 25%;
+  float: left;
+  margin-top: 7%;
+  margin-left: 3%;
+}
+
+#viz {
+  width: 65%;
+  float: right;
+  margin: 0 auto;
+}
+</style>
+
+<script src="http://d3plus.org/js/d3.js"></script>
+<script src="http://d3plus.org/js/d3plus.js"></script>
+
+<div id="text">
+  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+  <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+</div>
+<div id="viz"></div>
+
+<script>
+  // create sample dataset
+  var sample_data = [
+    {"name": "alpha", "size": 10},
+    {"name": "beta", "size": 200},
+    {"name": "gamma", "size": 30},
+    {"name": "delta", "size": 26},
+    {"name": "epsilon", "size": 12},
+    {"name": "zeta", "size": 26},
+    {"name": "theta", "size": 11},
+    {"name": "eta", "size": 24}
+  ]
+  // create list of node positions
+  var positions = [
+    {"name": "alpha", "x": 0, "y": 15},
+    {"name": "beta", "x": 12, "y": 24},
+    {"name": "gamma", "x": 16, "y": 18},
+    {"name": "delta", "x": 26, "y": 21},
+    {"name": "epsilon", "x": 13, "y": 4},
+    {"name": "zeta", "x": 31, "y": 13},
+    {"name": "theta", "x": 19, "y": 8},
+    {"name": "eta", "x": 24, "y": 11}
+  ]
+  // create list of node connections
+  var connections = [
+    {"source": "alpha", "target": "beta"},
+    {"source": "alpha", "target": "gamma"},
+    {"source": "beta", "target": "delta"},
+    {"source": "beta", "target": "epsilon"},
+    {"source": "zeta", "target": "gamma"},
+    {"source": "theta", "target": "gamma"},
+    {"source": "eta", "target": "gamma"}
+  ]
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")  // container DIV to hold the visualization
+    .type("network")    // visualization type
+    .data(sample_data)  // sample dataset to attach to nodes
+    .nodes(positions)   // x and y position of nodes
+    .edges(connections) // list of node connections
+    .size("size")       // key to size the nodes
+    .id("name")         // key for which our data is unique on
+    .draw()             // finally, draw the visualization!
+</script>

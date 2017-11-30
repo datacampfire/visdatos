@@ -1,0 +1,19 @@
+Year,Accessing,Area (use fill down),Street 2 (in Refine use titlecase and cluster and edit),Street (use find and replace to replace the odd character with a space),Length,Condition,Strange HTML (use unescape HTML)
+2011.0,1999-01-01T00:00:00Z,Birmingham,Acocks Green,Acocks green,12,nope,€300
+2011.0,1997-01-01T00:00:00Z,Birmingham,Adderly Street,Adderly street,14,14,<html>
+2011.0,1998-01-01T00:00:00Z,Birmingham,Alcester Road,Alcester road,13,13,€300
+2011.0,1998-01-01T00:00:00Z,Birmingham,Alfred Street,Alfred street,13,13,€300
+2011.0,1997-01-01T00:00:00Z,Birmingham,Alum Rock Road,Alum rock road,14,14,€300
+2011.0,1997-01-01T00:00:00Z,Birmingham,Alum Rock Road,Alum rock road,14,14,€300
+2011.0,1997-01-01T00:00:00Z,Birmingham,Alum Rock Road,Alum rock road,14,14,<html>
+2011.0,1997-01-01T00:00:00Z,Birmingham,Alum Rock Road,Alum rock road,14,14,<html>
+2011.0,1999-01-01T00:00:00Z,Birmingham,Bamford Road,Bamford road,12,nope,<html>
+2011.0,1999-01-01T00:00:00Z,Birmingham,Bamford Road,Bamford road,12,nope,<html>
+2011.0,1998-01-01T00:00:00Z,Birmingham,Belchers Lane,Belchers lane,13,13,<html>
+2011.0,1998-01-01T00:00:00Z,Birmingham,Belchers Lane,Belchers lane,13,13,€300
+2011.0,1998-01-01T00:00:00Z,Birmingham,Belchers Lane,Belchers lane,13,13,€300
+2011.0,2000-01-01T00:00:00Z,Birmingham,Bell Street,Bell street,11,nope,<html>
+2011.0,1999-01-01T00:00:00Z,Birmingham,Bristol Road,Bristol road,12,nope,<html>
+2011.0,1997-01-01T00:00:00Z,Birmingham,Bristol Street,Bristol street,14,14,€300
+2011.0,1999-01-01T00:00:00Z,Birmingham,Broad Street,Broad street,12,nope,<html>
+2011.0,1999-01-01T00:00:00Z,Birmingham,Broad Street,Broad street,12,nope,€300

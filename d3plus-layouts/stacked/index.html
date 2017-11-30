@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="utf-8">
+<style media="screen">
+#text {
+  width: 25%;
+  float: left;
+  margin-top: 7%;
+  margin-left: 3%;
+}
+
+#viz {
+  width: 65%;
+  float: right;
+  margin: 0 auto;
+}
+</style>
+
+<script src="http://d3plus.org/js/d3.js"></script>
+<script src="http://d3plus.org/js/d3plus.js"></script>
+
+<div id="text">
+  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+  <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+</div>
+<div id="viz"></div>
+
+<script>
+  // sample data array
+  var sample_data = [
+    {"year": 1993, "name":"alpha", "value": 20},
+    {"year": 1994, "name":"alpha", "value": 30},
+    {"year": 1995, "name":"alpha", "value": 60},
+    {"year": 1993, "name":"beta", "value": 40},
+    {"year": 1994, "name":"beta", "value": 60},
+    {"year": 1995, "name":"beta", "value": 10},
+    {"year": 1994, "name":"gamma", "value": 10},
+    {"year": 1995, "name":"gamma", "value": 40}
+  ]
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")  // container DIV to hold the visualization
+    .data(sample_data)  // data to use with the visualization
+    .type("stacked")    // visualization type
+    .id("name")         // key for which our data is unique on
+    .text("name")       // key to use for display text
+    .y("value")         // key to use for y-axis
+    .x("year")          // key to use for x-axis
+    .time("year")       // key to use for time
+    .draw()             // finally, draw the visualization!
+</script>
