@@ -27,6 +27,7 @@
 <div id="viz"></div>
 
 <script>
+
   var data = [
     {"value": 100, "name": "alpha"},
     {"value": 70, "name": "beta"},
@@ -35,6 +36,7 @@
     {"value": 5, "name": "epsilon"},
     {"value": 1, "name": "zeta"}
   ]
+
   d3plus.viz()
     .container("#viz")
     .data(data)
@@ -42,4 +44,5 @@
     .id("name")
     .size("value")
     .draw()
+
 </script>
