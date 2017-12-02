@@ -28,21 +28,19 @@
 
 <script>
 
-  var data = [
-    {"value": 100, "name": "alpha"},
-    {"value": 70, "name": "beta"},
-    {"value": 40, "name": "gamma"},
-    {"value": 15, "name": "delta"},
-    {"value": 5, "name": "epsilon"},
-    {"value": 1, "name": "zeta"}
-  ]
+    d3.json("data.json", function(error, ourdata) {
+      if (error) return console.error(error);
+      make_viz(ourdata);
+    });
 
-  d3plus.viz()
-    .container("#viz")
-    .data(data)
-    .type("pie")
-    .id("name")
-    .size("value")
-    .draw()
+    function make_viz(data){
+      var visualization = d3plus.viz()
+          .container("#viz")
+          .data(data)
+          .type("pie")
+          .id("name")
+          .size("value")
+          .draw()
+    }
 
 </script>

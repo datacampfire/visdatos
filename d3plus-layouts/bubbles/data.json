@@ -1,0 +1,8 @@
+[
+  {"value": 100, "name": "alpha", "group": "group 1"},
+  {"value": 70, "name": "beta", "group": "group 2"},
+  {"value": 40, "name": "gamma", "group": "group 2"},
+  {"value": 15, "name": "delta", "group": "group 2"},
+  {"value": 5, "name": "epsilon", "group": "group 1"},
+  {"value": 1, "name": "zeta", "group": "group 1"}
+]

@@ -1,0 +1,6 @@
+[
+    {"value": 100, "weight": 0.45, "type": "alpha"},
+    {"value": 70, "weight": 0.60, "type": "beta"},
+    {"value": 40, "weight": -0.2, "type": "gamma"},
+    {"value": 15, "weight": 0.1, "type": "delta"}
+]
