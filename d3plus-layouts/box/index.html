@@ -15,13 +15,15 @@
 }
 </style>
 
-<script src="http://d3plus.org/js/d3.js"></script>
-<script src="http://d3plus.org/js/d3plus.js"></script>
+<script src="d3.js"></script>
+<script src="d3plus.js"></script>
 
 <div id="text">
-  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-  <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+  <h2>Boxplot</h2>
+  <p>Data can be drawn using a Box and Whisker Plot, which helps highlight outliers and give a quick snapshot of the different quartiles of the dataset. This example includes a .ui( ) control that shows the difference between a Box and Whisker and a standard Scatter Plot.</p>
+  <a href="https://d3plus.org/examples/basic/78018ce8c3787d4e30d9/">Boxplot on D3plus</a>
 </div>
+
 <div id="viz"></div>
 
 <script>
@@ -35,12 +37,12 @@
       var visualization = d3plus.viz()
           .container("#viz")
           .data(data)
-          .type("box")
-          .x("year")
-          .y("value")
-          .id("name")
-          .time('year')
+          .type("box") // Escoge el tipo de visualizacion
+          .x("year") // Escoge la variable en el eje de las X (Categoria)
+          .y("value") // Escoge la variable en el eje de las y (Valores numericos)
+          .id("name") // Escoge el id o label de los datos
+          .time('year') // Parametro opcional para identificar la evolucion en el tiempo
           .draw()
     }
-    
+
 </script>

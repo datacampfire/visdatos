@@ -1,7 +1,7 @@
 <!doctype html>
 <meta charset="utf-8">
-
 <style media="screen">
+
 #text {
   width: 25%;
   float: left;
@@ -13,15 +13,18 @@
   width: 65%;
   float: right;
   margin: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 </style>
 
-<script src="http://d3plus.org/js/d3.js"></script>
-<script src="http://d3plus.org/js/d3plus.js"></script>
+<script src="d3.js"></script>
+<script src="d3plus.js"></script>
 
 <div id="text">
-  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-  <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+  <h2>Treemap</h2>
+  <p>La energía solar en Chile tiene el potencial de producir la totalidad de la electricidad usada en el país, mientras que la zona norte de Chile posee la mayor incidencia solar del mundo, concentrándose la principal en el desierto de Atacama y sus alrededores.1​ Además, Chile concentra una de las mayores reservas mundiales de litio, mineral utilizado frecuentemente en la elaboración de paneles para la producción de energía solar fotovoltaica.</p>
+  <a href="https://d3plus.org/examples/basic/9029130/">Treemap on D3plus</a>
 </div>
 
 <div id="viz"></div>
@@ -29,7 +32,7 @@
 <script>
 
 
-d3.json("generacion-solar-plantas.json", function(error, ourdata) {
+d3.json("data.json", function(error, ourdata) {
   if (error) return console.error(error);
   make_viz(ourdata);
 });
@@ -39,8 +42,8 @@ function make_viz(data){
       .container("#viz")
       .data(data)
       .type("tree_map")
-      .id("Central")
-      .size("Generacion_MWh")
+      .id("name")
+      .size("value")
       .draw()
 }
 

@@ -1,0 +1,2546 @@
+[
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1101,
+    "Nombre Comuna Domicilio Familiar": "IQUIQUE",
+    "Femenino": 245,
+    "Masculino": 118,
+    "Total Becados": 363
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1107,
+    "Nombre Comuna Domicilio Familiar": "ALTO HOSPICIO",
+    "Femenino": 271,
+    "Masculino": 126,
+    "Total Becados": 397
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1401,
+    "Nombre Comuna Domicilio Familiar": "POZO ALMONTE",
+    "Femenino": 36,
+    "Masculino": 30,
+    "Total Becados": 66
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1402,
+    "Nombre Comuna Domicilio Familiar": "CAMIÑA",
+    "Femenino": 27,
+    "Masculino": 12,
+    "Total Becados": 39
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1403,
+    "Nombre Comuna Domicilio Familiar": "COLCHANE",
+    "Femenino": 20,
+    "Masculino": 10,
+    "Total Becados": 30
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1404,
+    "Nombre Comuna Domicilio Familiar": "HUARA",
+    "Femenino": 14,
+    "Masculino": 6,
+    "Total Becados": 20
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE TARAPACA",
+    "ID Comuna": 1405,
+    "Nombre Comuna Domicilio Familiar": "PICA",
+    "Femenino": 43,
+    "Masculino": 35,
+    "Total Becados": 78
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2101,
+    "Nombre Comuna Domicilio Familiar": "ANTOFAGASTA",
+    "Femenino": 113,
+    "Masculino": 50,
+    "Total Becados": 163
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2102,
+    "Nombre Comuna Domicilio Familiar": "MEJILLONES",
+    "Femenino": "",
+    "Masculino": 1,
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2103,
+    "Nombre Comuna Domicilio Familiar": "SIERRA GORDA",
+    "Femenino": 2,
+    "Masculino": "",
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2104,
+    "Nombre Comuna Domicilio Familiar": "TALTAL",
+    "Femenino": "",
+    "Masculino": 1,
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2201,
+    "Nombre Comuna Domicilio Familiar": "CALAMA",
+    "Femenino": 272,
+    "Masculino": 176,
+    "Total Becados": 448
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2202,
+    "Nombre Comuna Domicilio Familiar": "OLLAGÜE",
+    "Femenino": "",
+    "Masculino": 1,
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2203,
+    "Nombre Comuna Domicilio Familiar": "SAN PEDRO DE ATACAMA",
+    "Femenino": 23,
+    "Masculino": 24,
+    "Total Becados": 47
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2301,
+    "Nombre Comuna Domicilio Familiar": "TOCOPILLA",
+    "Femenino": 7,
+    "Masculino": 3,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ANTOFAGASTA",
+    "ID Comuna": 2302,
+    "Nombre Comuna Domicilio Familiar": "MARÍA ELENA",
+    "Femenino": 2,
+    "Masculino": 1,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3101,
+    "Nombre Comuna Domicilio Familiar": "COPIAPÓ",
+    "Femenino": 215,
+    "Masculino": 106,
+    "Total Becados": 321
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3102,
+    "Nombre Comuna Domicilio Familiar": "CALDERA",
+    "Femenino": 31,
+    "Masculino": 14,
+    "Total Becados": 45
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3103,
+    "Nombre Comuna Domicilio Familiar": "TIERRA AMARILLA",
+    "Femenino": 22,
+    "Masculino": 15,
+    "Total Becados": 37
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3201,
+    "Nombre Comuna Domicilio Familiar": "CHAÑARAL",
+    "Femenino": 9,
+    "Masculino": 5,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3202,
+    "Nombre Comuna Domicilio Familiar": "DIEGO DE ALMAGRO",
+    "Femenino": 8,
+    "Masculino": 4,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3301,
+    "Nombre Comuna Domicilio Familiar": "VALLENAR",
+    "Femenino": 165,
+    "Masculino": 92,
+    "Total Becados": 257
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3302,
+    "Nombre Comuna Domicilio Familiar": "ALTO DEL CARMEN",
+    "Femenino": 26,
+    "Masculino": 19,
+    "Total Becados": 45
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3303,
+    "Nombre Comuna Domicilio Familiar": "FREIRINA",
+    "Femenino": 8,
+    "Masculino": "",
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ATACAMA",
+    "ID Comuna": 3304,
+    "Nombre Comuna Domicilio Familiar": "HUASCO",
+    "Femenino": 7,
+    "Masculino": 9,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4101,
+    "Nombre Comuna Domicilio Familiar": "LA SERENA",
+    "Femenino": 80,
+    "Masculino": 48,
+    "Total Becados": 128
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4102,
+    "Nombre Comuna Domicilio Familiar": "COQUIMBO",
+    "Femenino": 61,
+    "Masculino": 40,
+    "Total Becados": 101
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4103,
+    "Nombre Comuna Domicilio Familiar": "ANDACOLLO",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4105,
+    "Nombre Comuna Domicilio Familiar": "PAIHUANO",
+    "Femenino": 2,
+    "Masculino": "",
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4106,
+    "Nombre Comuna Domicilio Familiar": "VICUÑA",
+    "Femenino": 11,
+    "Masculino": 5,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4201,
+    "Nombre Comuna Domicilio Familiar": "ILLAPEL",
+    "Femenino": 5,
+    "Masculino": 4,
+    "Total Becados": 9
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4203,
+    "Nombre Comuna Domicilio Familiar": "LOS VILOS",
+    "Femenino": 4,
+    "Masculino": 1,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4204,
+    "Nombre Comuna Domicilio Familiar": "SALAMANCA",
+    "Femenino": 12,
+    "Masculino": 6,
+    "Total Becados": 18
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4301,
+    "Nombre Comuna Domicilio Familiar": "OVALLE",
+    "Femenino": 44,
+    "Masculino": 34,
+    "Total Becados": 78
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4302,
+    "Nombre Comuna Domicilio Familiar": "COMBARBALÁ",
+    "Femenino": 11,
+    "Masculino": 8,
+    "Total Becados": 19
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4303,
+    "Nombre Comuna Domicilio Familiar": "MONTE PATRIA",
+    "Femenino": 20,
+    "Masculino": 5,
+    "Total Becados": 25
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4304,
+    "Nombre Comuna Domicilio Familiar": "PUNITAQUI",
+    "Femenino": 4,
+    "Masculino": 2,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE COQUIMBO",
+    "ID Comuna": 4305,
+    "Nombre Comuna Domicilio Familiar": "RÍO HURTADO",
+    "Femenino": 3,
+    "Masculino": "",
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5101,
+    "Nombre Comuna Domicilio Familiar": "VALPARAÍSO",
+    "Femenino": 76,
+    "Masculino": 42,
+    "Total Becados": 118
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5102,
+    "Nombre Comuna Domicilio Familiar": "CASABLANCA",
+    "Femenino": 4,
+    "Masculino": 1,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5103,
+    "Nombre Comuna Domicilio Familiar": "CONCÓN",
+    "Femenino": 9,
+    "Masculino": 3,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5105,
+    "Nombre Comuna Domicilio Familiar": "PUCHUNCAVÍ",
+    "Femenino": 7,
+    "Masculino": 1,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5107,
+    "Nombre Comuna Domicilio Familiar": "QUINTERO",
+    "Femenino": 18,
+    "Masculino": 12,
+    "Total Becados": 30
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5109,
+    "Nombre Comuna Domicilio Familiar": "VIÑA DEL MAR",
+    "Femenino": 71,
+    "Masculino": 34,
+    "Total Becados": 105
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5201,
+    "Nombre Comuna Domicilio Familiar": "ISLA DE PASCUA",
+    "Femenino": 6,
+    "Masculino": 2,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5301,
+    "Nombre Comuna Domicilio Familiar": "LOS ANDES",
+    "Femenino": 22,
+    "Masculino": 8,
+    "Total Becados": 30
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5302,
+    "Nombre Comuna Domicilio Familiar": "CALLE LARGA",
+    "Femenino": 7,
+    "Masculino": 1,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5303,
+    "Nombre Comuna Domicilio Familiar": "RINCONADA",
+    "Femenino": 14,
+    "Masculino": 2,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5304,
+    "Nombre Comuna Domicilio Familiar": "SAN ESTEBAN",
+    "Femenino": 8,
+    "Masculino": 4,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5401,
+    "Nombre Comuna Domicilio Familiar": "LA LIGUA",
+    "Femenino": 35,
+    "Masculino": 26,
+    "Total Becados": 61
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5402,
+    "Nombre Comuna Domicilio Familiar": "CABILDO",
+    "Femenino": 9,
+    "Masculino": 6,
+    "Total Becados": 15
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5403,
+    "Nombre Comuna Domicilio Familiar": "PAPUDO",
+    "Femenino": 7,
+    "Masculino": 1,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5404,
+    "Nombre Comuna Domicilio Familiar": "PETORCA",
+    "Femenino": 13,
+    "Masculino": 6,
+    "Total Becados": 19
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5405,
+    "Nombre Comuna Domicilio Familiar": "ZAPALLAR",
+    "Femenino": 2,
+    "Masculino": 5,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5501,
+    "Nombre Comuna Domicilio Familiar": "QUILLOTA",
+    "Femenino": 39,
+    "Masculino": 27,
+    "Total Becados": 66
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5502,
+    "Nombre Comuna Domicilio Familiar": "LA CALERA",
+    "Femenino": 14,
+    "Masculino": 5,
+    "Total Becados": 19
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5503,
+    "Nombre Comuna Domicilio Familiar": "HIJUELAS",
+    "Femenino": 3,
+    "Masculino": 1,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5504,
+    "Nombre Comuna Domicilio Familiar": "LA CRUZ",
+    "Femenino": 7,
+    "Masculino": 3,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5506,
+    "Nombre Comuna Domicilio Familiar": "NOGALES",
+    "Femenino": 4,
+    "Masculino": 3,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5601,
+    "Nombre Comuna Domicilio Familiar": "SAN ANTONIO",
+    "Femenino": 89,
+    "Masculino": 61,
+    "Total Becados": 150
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5602,
+    "Nombre Comuna Domicilio Familiar": "ALGARROBO",
+    "Femenino": 5,
+    "Masculino": 5,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5603,
+    "Nombre Comuna Domicilio Familiar": "CARTAGENA",
+    "Femenino": 6,
+    "Masculino": 2,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5604,
+    "Nombre Comuna Domicilio Familiar": "EL QUISCO",
+    "Femenino": 9,
+    "Masculino": 7,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5605,
+    "Nombre Comuna Domicilio Familiar": "EL TABO",
+    "Femenino": 2,
+    "Masculino": "",
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5606,
+    "Nombre Comuna Domicilio Familiar": "SANTO DOMINGO",
+    "Femenino": 2,
+    "Masculino": 5,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5701,
+    "Nombre Comuna Domicilio Familiar": "SAN FELIPE",
+    "Femenino": 10,
+    "Masculino": 7,
+    "Total Becados": 17
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5702,
+    "Nombre Comuna Domicilio Familiar": "CATEMU",
+    "Femenino": 7,
+    "Masculino": 1,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5703,
+    "Nombre Comuna Domicilio Familiar": "LLAILLAY",
+    "Femenino": 5,
+    "Masculino": 5,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5705,
+    "Nombre Comuna Domicilio Familiar": "PUTAENDO",
+    "Femenino": 9,
+    "Masculino": 6,
+    "Total Becados": 15
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5706,
+    "Nombre Comuna Domicilio Familiar": "SANTA MARÍA",
+    "Femenino": 17,
+    "Masculino": 10,
+    "Total Becados": 27
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5801,
+    "Nombre Comuna Domicilio Familiar": "QUILPUÉ",
+    "Femenino": 39,
+    "Masculino": 25,
+    "Total Becados": 64
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5802,
+    "Nombre Comuna Domicilio Familiar": "LIMACHE",
+    "Femenino": 5,
+    "Masculino": 4,
+    "Total Becados": 9
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5803,
+    "Nombre Comuna Domicilio Familiar": "OLMUÉ",
+    "Femenino": 3,
+    "Masculino": "",
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE VALPARAISO",
+    "ID Comuna": 5804,
+    "Nombre Comuna Domicilio Familiar": "VILLA ALEMANA",
+    "Femenino": 68,
+    "Masculino": 27,
+    "Total Becados": 95
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6101,
+    "Nombre Comuna Domicilio Familiar": "RANCAGUA",
+    "Femenino": 103,
+    "Masculino": 53,
+    "Total Becados": 156
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6102,
+    "Nombre Comuna Domicilio Familiar": "CODEGUA",
+    "Femenino": 3,
+    "Masculino": 1,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6103,
+    "Nombre Comuna Domicilio Familiar": "COINCO",
+    "Femenino": 5,
+    "Masculino": 3,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6104,
+    "Nombre Comuna Domicilio Familiar": "COLTAUCO",
+    "Femenino": 7,
+    "Masculino": 4,
+    "Total Becados": 11
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6105,
+    "Nombre Comuna Domicilio Familiar": "DOÑIHUE",
+    "Femenino": 8,
+    "Masculino": 9,
+    "Total Becados": 17
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6106,
+    "Nombre Comuna Domicilio Familiar": "GRANEROS",
+    "Femenino": 18,
+    "Masculino": 10,
+    "Total Becados": 28
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6107,
+    "Nombre Comuna Domicilio Familiar": "LAS CABRAS",
+    "Femenino": 12,
+    "Masculino": 2,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6108,
+    "Nombre Comuna Domicilio Familiar": "MACHALÍ",
+    "Femenino": 14,
+    "Masculino": 6,
+    "Total Becados": 20
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6109,
+    "Nombre Comuna Domicilio Familiar": "MALLOA",
+    "Femenino": 9,
+    "Masculino": 5,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6110,
+    "Nombre Comuna Domicilio Familiar": "MOSTAZAL",
+    "Femenino": 11,
+    "Masculino": 3,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6111,
+    "Nombre Comuna Domicilio Familiar": "OLIVAR",
+    "Femenino": 3,
+    "Masculino": 5,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6112,
+    "Nombre Comuna Domicilio Familiar": "PEUMO",
+    "Femenino": 5,
+    "Masculino": 4,
+    "Total Becados": 9
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6113,
+    "Nombre Comuna Domicilio Familiar": "PICHIDEGUA",
+    "Femenino": 3,
+    "Masculino": 4,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6114,
+    "Nombre Comuna Domicilio Familiar": "QUINTA DE TILCOCO",
+    "Femenino": 12,
+    "Masculino": 7,
+    "Total Becados": 19
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6115,
+    "Nombre Comuna Domicilio Familiar": "RENGO",
+    "Femenino": 24,
+    "Masculino": 14,
+    "Total Becados": 38
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6116,
+    "Nombre Comuna Domicilio Familiar": "REQUÍNOA",
+    "Femenino": 7,
+    "Masculino": 3,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6117,
+    "Nombre Comuna Domicilio Familiar": "SAN VICENTE",
+    "Femenino": 10,
+    "Masculino": 4,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6201,
+    "Nombre Comuna Domicilio Familiar": "PICHILEMU",
+    "Femenino": 5,
+    "Masculino": 6,
+    "Total Becados": 11
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6203,
+    "Nombre Comuna Domicilio Familiar": "LITUECHE",
+    "Femenino": "",
+    "Masculino": 2,
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6204,
+    "Nombre Comuna Domicilio Familiar": "MARCHIHUE",
+    "Femenino": 4,
+    "Masculino": "",
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6205,
+    "Nombre Comuna Domicilio Familiar": "NAVIDAD",
+    "Femenino": 4,
+    "Masculino": 2,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6206,
+    "Nombre Comuna Domicilio Familiar": "PAREDONES",
+    "Femenino": 1,
+    "Masculino": 2,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6301,
+    "Nombre Comuna Domicilio Familiar": "SAN FERNANDO",
+    "Femenino": 27,
+    "Masculino": 22,
+    "Total Becados": 49
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6302,
+    "Nombre Comuna Domicilio Familiar": "CHÉPICA",
+    "Femenino": 1,
+    "Masculino": 2,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6303,
+    "Nombre Comuna Domicilio Familiar": "CHIMBARONGO",
+    "Femenino": 20,
+    "Masculino": 8,
+    "Total Becados": 28
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6304,
+    "Nombre Comuna Domicilio Familiar": "LOLOL",
+    "Femenino": 2,
+    "Masculino": 2,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6305,
+    "Nombre Comuna Domicilio Familiar": "NANCAGUA",
+    "Femenino": 11,
+    "Masculino": 1,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6306,
+    "Nombre Comuna Domicilio Familiar": "PALMILLA",
+    "Femenino": 5,
+    "Masculino": 2,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6307,
+    "Nombre Comuna Domicilio Familiar": "PERALILLO",
+    "Femenino": 1,
+    "Masculino": 4,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6308,
+    "Nombre Comuna Domicilio Familiar": "PLACILLA",
+    "Femenino": 8,
+    "Masculino": 1,
+    "Total Becados": 9
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6309,
+    "Nombre Comuna Domicilio Familiar": "PUMANQUE",
+    "Femenino": 2,
+    "Masculino": 1,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+    "ID Comuna": 6310,
+    "Nombre Comuna Domicilio Familiar": "SANTA CRUZ",
+    "Femenino": 14,
+    "Masculino": 11,
+    "Total Becados": 25
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7101,
+    "Nombre Comuna Domicilio Familiar": "TALCA",
+    "Femenino": 63,
+    "Masculino": 29,
+    "Total Becados": 92
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7102,
+    "Nombre Comuna Domicilio Familiar": "CONSTITUCIÓN",
+    "Femenino": 12,
+    "Masculino": 9,
+    "Total Becados": 21
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7103,
+    "Nombre Comuna Domicilio Familiar": "CUREPTO",
+    "Femenino": 7,
+    "Masculino": 5,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7104,
+    "Nombre Comuna Domicilio Familiar": "EMPEDRADO",
+    "Femenino": 1,
+    "Masculino": 1,
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7105,
+    "Nombre Comuna Domicilio Familiar": "MAULE",
+    "Femenino": 11,
+    "Masculino": 5,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7106,
+    "Nombre Comuna Domicilio Familiar": "PELARCO",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7108,
+    "Nombre Comuna Domicilio Familiar": "RÍO CLARO",
+    "Femenino": 3,
+    "Masculino": 3,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7109,
+    "Nombre Comuna Domicilio Familiar": "SAN CLEMENTE",
+    "Femenino": 10,
+    "Masculino": 8,
+    "Total Becados": 18
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7110,
+    "Nombre Comuna Domicilio Familiar": "SAN RAFAEL",
+    "Femenino": 3,
+    "Masculino": 1,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7201,
+    "Nombre Comuna Domicilio Familiar": "CAUQUENES",
+    "Femenino": 10,
+    "Masculino": 8,
+    "Total Becados": 18
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7202,
+    "Nombre Comuna Domicilio Familiar": "CHANCO",
+    "Femenino": 3,
+    "Masculino": 4,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7203,
+    "Nombre Comuna Domicilio Familiar": "PELLUHUE",
+    "Femenino": 4,
+    "Masculino": 3,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7301,
+    "Nombre Comuna Domicilio Familiar": "CURICÓ",
+    "Femenino": 107,
+    "Masculino": 51,
+    "Total Becados": 158
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7302,
+    "Nombre Comuna Domicilio Familiar": "HUALAÑÉ",
+    "Femenino": 9,
+    "Masculino": 8,
+    "Total Becados": 17
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7303,
+    "Nombre Comuna Domicilio Familiar": "LICANTÉN",
+    "Femenino": 19,
+    "Masculino": 10,
+    "Total Becados": 29
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7304,
+    "Nombre Comuna Domicilio Familiar": "MOLINA",
+    "Femenino": 12,
+    "Masculino": 4,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7305,
+    "Nombre Comuna Domicilio Familiar": "RAUCO",
+    "Femenino": 3,
+    "Masculino": 3,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7306,
+    "Nombre Comuna Domicilio Familiar": "ROMERAL",
+    "Femenino": 8,
+    "Masculino": 4,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7307,
+    "Nombre Comuna Domicilio Familiar": "SAGRADA FAMILIA",
+    "Femenino": 4,
+    "Masculino": 1,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7308,
+    "Nombre Comuna Domicilio Familiar": "TENO",
+    "Femenino": 12,
+    "Masculino": 9,
+    "Total Becados": 21
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7309,
+    "Nombre Comuna Domicilio Familiar": "VICHUQUÉN",
+    "Femenino": 16,
+    "Masculino": 12,
+    "Total Becados": 28
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7401,
+    "Nombre Comuna Domicilio Familiar": "LINARES",
+    "Femenino": 28,
+    "Masculino": 21,
+    "Total Becados": 49
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7402,
+    "Nombre Comuna Domicilio Familiar": "COLBÚN",
+    "Femenino": 9,
+    "Masculino": 5,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7403,
+    "Nombre Comuna Domicilio Familiar": "LONGAVÍ",
+    "Femenino": 14,
+    "Masculino": 7,
+    "Total Becados": 21
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7404,
+    "Nombre Comuna Domicilio Familiar": "PARRAL",
+    "Femenino": 8,
+    "Masculino": 3,
+    "Total Becados": 11
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7405,
+    "Nombre Comuna Domicilio Familiar": "RETIRO",
+    "Femenino": 3,
+    "Masculino": 2,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7406,
+    "Nombre Comuna Domicilio Familiar": "SAN JAVIER",
+    "Femenino": 3,
+    "Masculino": 7,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7407,
+    "Nombre Comuna Domicilio Familiar": "VILLA ALEGRE",
+    "Femenino": 3,
+    "Masculino": 2,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL MAULE",
+    "ID Comuna": 7408,
+    "Nombre Comuna Domicilio Familiar": "YERBAS BUENAS",
+    "Femenino": 2,
+    "Masculino": 3,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8101,
+    "Nombre Comuna Domicilio Familiar": "CONCEPCIÓN",
+    "Femenino": 65,
+    "Masculino": 38,
+    "Total Becados": 103
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8102,
+    "Nombre Comuna Domicilio Familiar": "CORONEL",
+    "Femenino": 38,
+    "Masculino": 19,
+    "Total Becados": 57
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8103,
+    "Nombre Comuna Domicilio Familiar": "CHIGUAYANTE",
+    "Femenino": 19,
+    "Masculino": 8,
+    "Total Becados": 27
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8105,
+    "Nombre Comuna Domicilio Familiar": "HUALQUI",
+    "Femenino": 9,
+    "Masculino": 4,
+    "Total Becados": 13
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8106,
+    "Nombre Comuna Domicilio Familiar": "LOTA",
+    "Femenino": 7,
+    "Masculino": 8,
+    "Total Becados": 15
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8107,
+    "Nombre Comuna Domicilio Familiar": "PENCO",
+    "Femenino": 11,
+    "Masculino": 4,
+    "Total Becados": 15
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8108,
+    "Nombre Comuna Domicilio Familiar": "SAN PEDRO DE LA PAZ",
+    "Femenino": 26,
+    "Masculino": 13,
+    "Total Becados": 39
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8109,
+    "Nombre Comuna Domicilio Familiar": "SANTA JUANA",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8110,
+    "Nombre Comuna Domicilio Familiar": "TALCAHUANO",
+    "Femenino": 42,
+    "Masculino": 33,
+    "Total Becados": 75
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8111,
+    "Nombre Comuna Domicilio Familiar": "TOMÉ",
+    "Femenino": 15,
+    "Masculino": 7,
+    "Total Becados": 22
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8112,
+    "Nombre Comuna Domicilio Familiar": "HUALPÉN",
+    "Femenino": 21,
+    "Masculino": 10,
+    "Total Becados": 31
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8201,
+    "Nombre Comuna Domicilio Familiar": "LEBU",
+    "Femenino": 89,
+    "Masculino": 61,
+    "Total Becados": 150
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8202,
+    "Nombre Comuna Domicilio Familiar": "ARAUCO",
+    "Femenino": 79,
+    "Masculino": 50,
+    "Total Becados": 129
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8203,
+    "Nombre Comuna Domicilio Familiar": "CAÑETE",
+    "Femenino": 214,
+    "Masculino": 101,
+    "Total Becados": 315
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8204,
+    "Nombre Comuna Domicilio Familiar": "CONTULMO",
+    "Femenino": 28,
+    "Masculino": 12,
+    "Total Becados": 40
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8205,
+    "Nombre Comuna Domicilio Familiar": "CURANILAHUE",
+    "Femenino": 31,
+    "Masculino": 28,
+    "Total Becados": 59
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8206,
+    "Nombre Comuna Domicilio Familiar": "LOS ÁLAMOS",
+    "Femenino": 59,
+    "Masculino": 26,
+    "Total Becados": 85
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8207,
+    "Nombre Comuna Domicilio Familiar": "TIRÚA",
+    "Femenino": 118,
+    "Masculino": 58,
+    "Total Becados": 176
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8301,
+    "Nombre Comuna Domicilio Familiar": "LOS ÁNGELES",
+    "Femenino": 25,
+    "Masculino": 12,
+    "Total Becados": 37
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8303,
+    "Nombre Comuna Domicilio Familiar": "CABRERO",
+    "Femenino": 5,
+    "Masculino": 5,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8304,
+    "Nombre Comuna Domicilio Familiar": "LAJA",
+    "Femenino": 2,
+    "Masculino": 2,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8305,
+    "Nombre Comuna Domicilio Familiar": "MULCHÉN",
+    "Femenino": 15,
+    "Masculino": 5,
+    "Total Becados": 20
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8306,
+    "Nombre Comuna Domicilio Familiar": "NACIMIENTO",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8307,
+    "Nombre Comuna Domicilio Familiar": "NEGRETE",
+    "Femenino": 2,
+    "Masculino": 3,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8308,
+    "Nombre Comuna Domicilio Familiar": "QUILACO",
+    "Femenino": 1,
+    "Masculino": 3,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8309,
+    "Nombre Comuna Domicilio Familiar": "QUILLECO",
+    "Femenino": 1,
+    "Masculino": 1,
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8311,
+    "Nombre Comuna Domicilio Familiar": "SANTA BÁRBARA",
+    "Femenino": 12,
+    "Masculino": 4,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8312,
+    "Nombre Comuna Domicilio Familiar": "TUCAPEL",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8313,
+    "Nombre Comuna Domicilio Familiar": "YUMBEL",
+    "Femenino": 11,
+    "Masculino": 4,
+    "Total Becados": 15
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8314,
+    "Nombre Comuna Domicilio Familiar": "ALTO BIOBÍO",
+    "Femenino": 63,
+    "Masculino": 37,
+    "Total Becados": 100
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8401,
+    "Nombre Comuna Domicilio Familiar": "CHILLÁN",
+    "Femenino": 18,
+    "Masculino": 7,
+    "Total Becados": 25
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8402,
+    "Nombre Comuna Domicilio Familiar": "BULNES",
+    "Femenino": 5,
+    "Masculino": 1,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8403,
+    "Nombre Comuna Domicilio Familiar": "COBQUECURA",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8404,
+    "Nombre Comuna Domicilio Familiar": "COELEMU",
+    "Femenino": 2,
+    "Masculino": 1,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8405,
+    "Nombre Comuna Domicilio Familiar": "COIHUECO",
+    "Femenino": 6,
+    "Masculino": 1,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8406,
+    "Nombre Comuna Domicilio Familiar": "CHILLÁN VIEJO",
+    "Femenino": 4,
+    "Masculino": 3,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8407,
+    "Nombre Comuna Domicilio Familiar": "EL CARMEN",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8408,
+    "Nombre Comuna Domicilio Familiar": "NINHUE",
+    "Femenino": "",
+    "Masculino": 1,
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8411,
+    "Nombre Comuna Domicilio Familiar": "PINTO",
+    "Femenino": 5,
+    "Masculino": 5,
+    "Total Becados": 10
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8412,
+    "Nombre Comuna Domicilio Familiar": "PORTEZUELO",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8413,
+    "Nombre Comuna Domicilio Familiar": "QUILLÓN",
+    "Femenino": 3,
+    "Masculino": 1,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8414,
+    "Nombre Comuna Domicilio Familiar": "QUIRIHUE",
+    "Femenino": 3,
+    "Masculino": "",
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8415,
+    "Nombre Comuna Domicilio Familiar": "RÁNQUIL",
+    "Femenino": 2,
+    "Masculino": "",
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8416,
+    "Nombre Comuna Domicilio Familiar": "SAN CARLOS",
+    "Femenino": 4,
+    "Masculino": "",
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8417,
+    "Nombre Comuna Domicilio Familiar": "SAN FABIÁN",
+    "Femenino": 2,
+    "Masculino": 1,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8418,
+    "Nombre Comuna Domicilio Familiar": "SAN IGNACIO",
+    "Femenino": 2,
+    "Masculino": 1,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8419,
+    "Nombre Comuna Domicilio Familiar": "SAN NICOLÁS",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8420,
+    "Nombre Comuna Domicilio Familiar": "TREGUACO",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DEL BIOBIO",
+    "ID Comuna": 8421,
+    "Nombre Comuna Domicilio Familiar": "YUNGAY",
+    "Femenino": 3,
+    "Masculino": 2,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9101,
+    "Nombre Comuna Domicilio Familiar": "TEMUCO",
+    "Femenino": 622,
+    "Masculino": 353,
+    "Total Becados": 975
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9102,
+    "Nombre Comuna Domicilio Familiar": "CARAHUE",
+    "Femenino": 142,
+    "Masculino": 73,
+    "Total Becados": 215
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9103,
+    "Nombre Comuna Domicilio Familiar": "CUNCO",
+    "Femenino": 68,
+    "Masculino": 57,
+    "Total Becados": 125
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9104,
+    "Nombre Comuna Domicilio Familiar": "CURARREHUE",
+    "Femenino": 64,
+    "Masculino": 40,
+    "Total Becados": 104
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9105,
+    "Nombre Comuna Domicilio Familiar": "FREIRE",
+    "Femenino": 246,
+    "Masculino": 115,
+    "Total Becados": 361
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9106,
+    "Nombre Comuna Domicilio Familiar": "GALVARINO",
+    "Femenino": 119,
+    "Masculino": 63,
+    "Total Becados": 182
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9107,
+    "Nombre Comuna Domicilio Familiar": "GORBEA",
+    "Femenino": 39,
+    "Masculino": 13,
+    "Total Becados": 52
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9108,
+    "Nombre Comuna Domicilio Familiar": "LAUTARO",
+    "Femenino": 202,
+    "Masculino": 87,
+    "Total Becados": 289
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9109,
+    "Nombre Comuna Domicilio Familiar": "LONCOCHE",
+    "Femenino": 75,
+    "Masculino": 38,
+    "Total Becados": 113
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9110,
+    "Nombre Comuna Domicilio Familiar": "MELIPEUCO",
+    "Femenino": 55,
+    "Masculino": 29,
+    "Total Becados": 84
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9111,
+    "Nombre Comuna Domicilio Familiar": "NUEVA IMPERIAL",
+    "Femenino": 280,
+    "Masculino": 163,
+    "Total Becados": 443
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9112,
+    "Nombre Comuna Domicilio Familiar": "PADRE LAS CASAS",
+    "Femenino": 486,
+    "Masculino": 255,
+    "Total Becados": 741
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9113,
+    "Nombre Comuna Domicilio Familiar": "PERQUENCO",
+    "Femenino": 52,
+    "Masculino": 28,
+    "Total Becados": 80
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9114,
+    "Nombre Comuna Domicilio Familiar": "PITRUFQUÉN",
+    "Femenino": 120,
+    "Masculino": 47,
+    "Total Becados": 167
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9115,
+    "Nombre Comuna Domicilio Familiar": "PUCÓN",
+    "Femenino": 55,
+    "Masculino": 31,
+    "Total Becados": 86
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9116,
+    "Nombre Comuna Domicilio Familiar": "SAAVEDRA",
+    "Femenino": 123,
+    "Masculino": 75,
+    "Total Becados": 198
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9117,
+    "Nombre Comuna Domicilio Familiar": "TEODORO SCHMIDT",
+    "Femenino": 115,
+    "Masculino": 72,
+    "Total Becados": 187
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9118,
+    "Nombre Comuna Domicilio Familiar": "TOLTÉN",
+    "Femenino": 60,
+    "Masculino": 33,
+    "Total Becados": 93
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9119,
+    "Nombre Comuna Domicilio Familiar": "VILCÚN",
+    "Femenino": 123,
+    "Masculino": 80,
+    "Total Becados": 203
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9120,
+    "Nombre Comuna Domicilio Familiar": "VILLARRICA",
+    "Femenino": 129,
+    "Masculino": 79,
+    "Total Becados": 208
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9121,
+    "Nombre Comuna Domicilio Familiar": "CHOLCHOL",
+    "Femenino": 153,
+    "Masculino": 84,
+    "Total Becados": 237
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9201,
+    "Nombre Comuna Domicilio Familiar": "ANGOL",
+    "Femenino": 25,
+    "Masculino": 8,
+    "Total Becados": 33
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9202,
+    "Nombre Comuna Domicilio Familiar": "COLLIPULLI",
+    "Femenino": 17,
+    "Masculino": 6,
+    "Total Becados": 23
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9203,
+    "Nombre Comuna Domicilio Familiar": "CURACAUTÍN",
+    "Femenino": 15,
+    "Masculino": 13,
+    "Total Becados": 28
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9204,
+    "Nombre Comuna Domicilio Familiar": "ERCILLA",
+    "Femenino": 63,
+    "Masculino": 33,
+    "Total Becados": 96
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9205,
+    "Nombre Comuna Domicilio Familiar": "LONQUIMAY",
+    "Femenino": 70,
+    "Masculino": 35,
+    "Total Becados": 105
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9206,
+    "Nombre Comuna Domicilio Familiar": "LOS SAUCES",
+    "Femenino": 9,
+    "Masculino": 5,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9207,
+    "Nombre Comuna Domicilio Familiar": "LUMACO",
+    "Femenino": 41,
+    "Masculino": 23,
+    "Total Becados": 64
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9208,
+    "Nombre Comuna Domicilio Familiar": "PURÉN",
+    "Femenino": 63,
+    "Masculino": 28,
+    "Total Becados": 91
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9209,
+    "Nombre Comuna Domicilio Familiar": "RENAICO",
+    "Femenino": 4,
+    "Masculino": 1,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9210,
+    "Nombre Comuna Domicilio Familiar": "TRAIGUÉN",
+    "Femenino": 47,
+    "Masculino": 27,
+    "Total Becados": 74
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LA ARAUCANIA",
+    "ID Comuna": 9211,
+    "Nombre Comuna Domicilio Familiar": "VICTORIA",
+    "Femenino": 69,
+    "Masculino": 39,
+    "Total Becados": 108
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10101,
+    "Nombre Comuna Domicilio Familiar": "PUERTO MONTT",
+    "Femenino": 201,
+    "Masculino": 89,
+    "Total Becados": 290
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10102,
+    "Nombre Comuna Domicilio Familiar": "CALBUCO",
+    "Femenino": 36,
+    "Masculino": 12,
+    "Total Becados": 48
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10103,
+    "Nombre Comuna Domicilio Familiar": "COCHAMÓ",
+    "Femenino": 2,
+    "Masculino": 1,
+    "Total Becados": 3
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10104,
+    "Nombre Comuna Domicilio Familiar": "FRESIA",
+    "Femenino": 22,
+    "Masculino": 12,
+    "Total Becados": 34
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10105,
+    "Nombre Comuna Domicilio Familiar": "FRUTILLAR",
+    "Femenino": 17,
+    "Masculino": 13,
+    "Total Becados": 30
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10106,
+    "Nombre Comuna Domicilio Familiar": "LOS MUERMOS",
+    "Femenino": 14,
+    "Masculino": 5,
+    "Total Becados": 19
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10107,
+    "Nombre Comuna Domicilio Familiar": "LLANQUIHUE",
+    "Femenino": 74,
+    "Masculino": 34,
+    "Total Becados": 108
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10108,
+    "Nombre Comuna Domicilio Familiar": "MAULLÍN",
+    "Femenino": 11,
+    "Masculino": 5,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10109,
+    "Nombre Comuna Domicilio Familiar": "PUERTO VARAS",
+    "Femenino": 11,
+    "Masculino": 3,
+    "Total Becados": 14
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10201,
+    "Nombre Comuna Domicilio Familiar": "CASTRO",
+    "Femenino": 38,
+    "Masculino": 12,
+    "Total Becados": 50
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10202,
+    "Nombre Comuna Domicilio Familiar": "ANCUD",
+    "Femenino": 97,
+    "Masculino": 55,
+    "Total Becados": 152
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10203,
+    "Nombre Comuna Domicilio Familiar": "CHONCHI",
+    "Femenino": 34,
+    "Masculino": 15,
+    "Total Becados": 49
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10204,
+    "Nombre Comuna Domicilio Familiar": "CURACO DE VÉLEZ",
+    "Femenino": 9,
+    "Masculino": 3,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10205,
+    "Nombre Comuna Domicilio Familiar": "DALCAHUE",
+    "Femenino": 13,
+    "Masculino": 10,
+    "Total Becados": 23
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10206,
+    "Nombre Comuna Domicilio Familiar": "PUQUELDÓN",
+    "Femenino": 5,
+    "Masculino": 2,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10207,
+    "Nombre Comuna Domicilio Familiar": "QUEILÉN",
+    "Femenino": 26,
+    "Masculino": 16,
+    "Total Becados": 42
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10208,
+    "Nombre Comuna Domicilio Familiar": "QUELLÓN",
+    "Femenino": 55,
+    "Masculino": 29,
+    "Total Becados": 84
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10209,
+    "Nombre Comuna Domicilio Familiar": "QUEMCHI",
+    "Femenino": 7,
+    "Masculino": 10,
+    "Total Becados": 17
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10210,
+    "Nombre Comuna Domicilio Familiar": "QUINCHAO",
+    "Femenino": 30,
+    "Masculino": 16,
+    "Total Becados": 46
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10301,
+    "Nombre Comuna Domicilio Familiar": "OSORNO",
+    "Femenino": 507,
+    "Masculino": 266,
+    "Total Becados": 773
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10302,
+    "Nombre Comuna Domicilio Familiar": "PUERTO OCTAY",
+    "Femenino": 43,
+    "Masculino": 22,
+    "Total Becados": 65
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10303,
+    "Nombre Comuna Domicilio Familiar": "PURRANQUE",
+    "Femenino": 59,
+    "Masculino": 47,
+    "Total Becados": 106
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10304,
+    "Nombre Comuna Domicilio Familiar": "PUYEHUE",
+    "Femenino": 37,
+    "Masculino": 13,
+    "Total Becados": 50
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10305,
+    "Nombre Comuna Domicilio Familiar": "RÍO NEGRO",
+    "Femenino": 66,
+    "Masculino": 32,
+    "Total Becados": 98
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10306,
+    "Nombre Comuna Domicilio Familiar": "SAN JUAN DE LA COSTA",
+    "Femenino": 78,
+    "Masculino": 48,
+    "Total Becados": 126
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS LAGOS",
+    "ID Comuna": 10307,
+    "Nombre Comuna Domicilio Familiar": "SAN PABLO",
+    "Femenino": 72,
+    "Masculino": 40,
+    "Total Becados": 112
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO",
+    "ID Comuna": 11101,
+    "Nombre Comuna Domicilio Familiar": "COYHAIQUE",
+    "Femenino": 18,
+    "Masculino": 10,
+    "Total Becados": 28
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO",
+    "ID Comuna": 11102,
+    "Nombre Comuna Domicilio Familiar": "LAGO VERDE",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO",
+    "ID Comuna": 11201,
+    "Nombre Comuna Domicilio Familiar": "AYSÉN",
+    "Femenino": 9,
+    "Masculino": 7,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO",
+    "ID Comuna": 11203,
+    "Nombre Comuna Domicilio Familiar": "GUAITECAS",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE MAGALLANES Y LA ANTARTICA CHILENA",
+    "ID Comuna": 12101,
+    "Nombre Comuna Domicilio Familiar": "PUNTA ARENAS",
+    "Femenino": 260,
+    "Masculino": 148,
+    "Total Becados": 408
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE MAGALLANES Y LA ANTARTICA CHILENA",
+    "ID Comuna": 12301,
+    "Nombre Comuna Domicilio Familiar": "PORVENIR",
+    "Femenino": 5,
+    "Masculino": 1,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE MAGALLANES Y LA ANTARTICA CHILENA",
+    "ID Comuna": 12401,
+    "Nombre Comuna Domicilio Familiar": "NATALES",
+    "Femenino": 26,
+    "Masculino": 8,
+    "Total Becados": 34
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE MAGALLANES Y LA ANTARTICA CHILENA",
+    "ID Comuna": 12402,
+    "Nombre Comuna Domicilio Familiar": "TORRES DEL PAINE",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13101,
+    "Nombre Comuna Domicilio Familiar": "SANTIAGO",
+    "Femenino": 59,
+    "Masculino": 20,
+    "Total Becados": 79
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13102,
+    "Nombre Comuna Domicilio Familiar": "CERRILLOS",
+    "Femenino": 40,
+    "Masculino": 11,
+    "Total Becados": 51
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13103,
+    "Nombre Comuna Domicilio Familiar": "CERRO NAVIA",
+    "Femenino": 108,
+    "Masculino": 52,
+    "Total Becados": 160
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13104,
+    "Nombre Comuna Domicilio Familiar": "CONCHALÍ",
+    "Femenino": 43,
+    "Masculino": 16,
+    "Total Becados": 59
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13105,
+    "Nombre Comuna Domicilio Familiar": "EL BOSQUE",
+    "Femenino": 103,
+    "Masculino": 50,
+    "Total Becados": 153
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13106,
+    "Nombre Comuna Domicilio Familiar": "ESTACIÓN CENTRAL",
+    "Femenino": 55,
+    "Masculino": 27,
+    "Total Becados": 82
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13107,
+    "Nombre Comuna Domicilio Familiar": "HUECHURABA",
+    "Femenino": 54,
+    "Masculino": 24,
+    "Total Becados": 78
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13108,
+    "Nombre Comuna Domicilio Familiar": "INDEPENDENCIA",
+    "Femenino": 12,
+    "Masculino": 13,
+    "Total Becados": 25
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13109,
+    "Nombre Comuna Domicilio Familiar": "LA CISTERNA",
+    "Femenino": 19,
+    "Masculino": 8,
+    "Total Becados": 27
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13110,
+    "Nombre Comuna Domicilio Familiar": "LA FLORIDA",
+    "Femenino": 149,
+    "Masculino": 74,
+    "Total Becados": 223
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13111,
+    "Nombre Comuna Domicilio Familiar": "LA GRANJA",
+    "Femenino": 137,
+    "Masculino": 101,
+    "Total Becados": 238
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13112,
+    "Nombre Comuna Domicilio Familiar": "LA PINTANA",
+    "Femenino": 159,
+    "Masculino": 81,
+    "Total Becados": 240
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13113,
+    "Nombre Comuna Domicilio Familiar": "LA REINA",
+    "Femenino": 22,
+    "Masculino": 11,
+    "Total Becados": 33
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13114,
+    "Nombre Comuna Domicilio Familiar": "LAS CONDES",
+    "Femenino": 7,
+    "Masculino": 5,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13115,
+    "Nombre Comuna Domicilio Familiar": "LO BARNECHEA",
+    "Femenino": 20,
+    "Masculino": 6,
+    "Total Becados": 26
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13116,
+    "Nombre Comuna Domicilio Familiar": "LO ESPEJO",
+    "Femenino": 47,
+    "Masculino": 37,
+    "Total Becados": 84
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13117,
+    "Nombre Comuna Domicilio Familiar": "LO PRADO",
+    "Femenino": 66,
+    "Masculino": 27,
+    "Total Becados": 93
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13118,
+    "Nombre Comuna Domicilio Familiar": "MACUL",
+    "Femenino": 42,
+    "Masculino": 25,
+    "Total Becados": 67
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13119,
+    "Nombre Comuna Domicilio Familiar": "MAIPÚ",
+    "Femenino": 209,
+    "Masculino": 110,
+    "Total Becados": 319
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13120,
+    "Nombre Comuna Domicilio Familiar": "ÑUÑOA",
+    "Femenino": 17,
+    "Masculino": 8,
+    "Total Becados": 25
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13121,
+    "Nombre Comuna Domicilio Familiar": "PEDRO AGUIRRE CERDA",
+    "Femenino": 40,
+    "Masculino": 19,
+    "Total Becados": 59
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13122,
+    "Nombre Comuna Domicilio Familiar": "PEÑALOLÉN",
+    "Femenino": 182,
+    "Masculino": 64,
+    "Total Becados": 246
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13123,
+    "Nombre Comuna Domicilio Familiar": "PROVIDENCIA",
+    "Femenino": 3,
+    "Masculino": 1,
+    "Total Becados": 4
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13124,
+    "Nombre Comuna Domicilio Familiar": "PUDAHUEL",
+    "Femenino": 134,
+    "Masculino": 75,
+    "Total Becados": 209
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13125,
+    "Nombre Comuna Domicilio Familiar": "QUILICURA",
+    "Femenino": 64,
+    "Masculino": 34,
+    "Total Becados": 98
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13126,
+    "Nombre Comuna Domicilio Familiar": "QUINTA NORMAL",
+    "Femenino": 52,
+    "Masculino": 21,
+    "Total Becados": 73
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13127,
+    "Nombre Comuna Domicilio Familiar": "RECOLETA",
+    "Femenino": 65,
+    "Masculino": 40,
+    "Total Becados": 105
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13128,
+    "Nombre Comuna Domicilio Familiar": "RENCA",
+    "Femenino": 91,
+    "Masculino": 45,
+    "Total Becados": 136
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13129,
+    "Nombre Comuna Domicilio Familiar": "SAN JOAQUÍN",
+    "Femenino": 31,
+    "Masculino": 19,
+    "Total Becados": 50
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13130,
+    "Nombre Comuna Domicilio Familiar": "SAN MIGUEL",
+    "Femenino": 25,
+    "Masculino": 18,
+    "Total Becados": 43
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13131,
+    "Nombre Comuna Domicilio Familiar": "SAN RAMÓN",
+    "Femenino": 80,
+    "Masculino": 33,
+    "Total Becados": 113
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13132,
+    "Nombre Comuna Domicilio Familiar": "VITACURA",
+    "Femenino": "",
+    "Masculino": 2,
+    "Total Becados": 2
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13201,
+    "Nombre Comuna Domicilio Familiar": "PUENTE ALTO",
+    "Femenino": 252,
+    "Masculino": 147,
+    "Total Becados": 399
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13202,
+    "Nombre Comuna Domicilio Familiar": "PIRQUE",
+    "Femenino": 3,
+    "Masculino": 3,
+    "Total Becados": 6
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13203,
+    "Nombre Comuna Domicilio Familiar": "SAN JOSÉ DE MAIPO",
+    "Femenino": 3,
+    "Masculino": 2,
+    "Total Becados": 5
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13301,
+    "Nombre Comuna Domicilio Familiar": "COLINA",
+    "Femenino": 50,
+    "Masculino": 34,
+    "Total Becados": 84
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13302,
+    "Nombre Comuna Domicilio Familiar": "LAMPA",
+    "Femenino": 47,
+    "Masculino": 21,
+    "Total Becados": 68
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13303,
+    "Nombre Comuna Domicilio Familiar": "TILTIL",
+    "Femenino": 7,
+    "Masculino": 5,
+    "Total Becados": 12
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13401,
+    "Nombre Comuna Domicilio Familiar": "SAN BERNARDO",
+    "Femenino": 165,
+    "Masculino": 84,
+    "Total Becados": 249
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13402,
+    "Nombre Comuna Domicilio Familiar": "BUIN",
+    "Femenino": 22,
+    "Masculino": 20,
+    "Total Becados": 42
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13403,
+    "Nombre Comuna Domicilio Familiar": "CALERA DE TANGO",
+    "Femenino": 4,
+    "Masculino": 4,
+    "Total Becados": 8
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13404,
+    "Nombre Comuna Domicilio Familiar": "PAINE",
+    "Femenino": 38,
+    "Masculino": 14,
+    "Total Becados": 52
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13501,
+    "Nombre Comuna Domicilio Familiar": "MELIPILLA",
+    "Femenino": 45,
+    "Masculino": 27,
+    "Total Becados": 72
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13502,
+    "Nombre Comuna Domicilio Familiar": "ALHUÉ",
+    "Femenino": 1,
+    "Masculino": "",
+    "Total Becados": 1
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13503,
+    "Nombre Comuna Domicilio Familiar": "CURACAVÍ",
+    "Femenino": 13,
+    "Masculino": 10,
+    "Total Becados": 23
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13504,
+    "Nombre Comuna Domicilio Familiar": "MARÍA PINTO",
+    "Femenino": 11,
+    "Masculino": 2,
+    "Total Becados": 13
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13505,
+    "Nombre Comuna Domicilio Familiar": "SAN PEDRO",
+    "Femenino": 3,
+    "Masculino": 4,
+    "Total Becados": 7
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13601,
+    "Nombre Comuna Domicilio Familiar": "TALAGANTE",
+    "Femenino": 26,
+    "Masculino": 17,
+    "Total Becados": 43
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13602,
+    "Nombre Comuna Domicilio Familiar": "EL MONTE",
+    "Femenino": 38,
+    "Masculino": 11,
+    "Total Becados": 49
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13603,
+    "Nombre Comuna Domicilio Familiar": "ISLA DE MAIPO",
+    "Femenino": 11,
+    "Masculino": 5,
+    "Total Becados": 16
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13604,
+    "Nombre Comuna Domicilio Familiar": "PADRE HURTADO",
+    "Femenino": 38,
+    "Masculino": 25,
+    "Total Becados": 63
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION METROPOLITANA",
+    "ID Comuna": 13605,
+    "Nombre Comuna Domicilio Familiar": "PEÑAFLOR",
+    "Femenino": 30,
+    "Masculino": 16,
+    "Total Becados": 46
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14101,
+    "Nombre Comuna Domicilio Familiar": "VALDIVIA",
+    "Femenino": 96,
+    "Masculino": 40,
+    "Total Becados": 136
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14102,
+    "Nombre Comuna Domicilio Familiar": "CORRAL",
+    "Femenino": 16,
+    "Masculino": 14,
+    "Total Becados": 30
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14103,
+    "Nombre Comuna Domicilio Familiar": "LANCO",
+    "Femenino": 64,
+    "Masculino": 35,
+    "Total Becados": 99
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14104,
+    "Nombre Comuna Domicilio Familiar": "LOS LAGOS",
+    "Femenino": 13,
+    "Masculino": 5,
+    "Total Becados": 18
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14105,
+    "Nombre Comuna Domicilio Familiar": "MÁFIL",
+    "Femenino": 15,
+    "Masculino": 8,
+    "Total Becados": 23
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14106,
+    "Nombre Comuna Domicilio Familiar": "MARIQUINA",
+    "Femenino": 79,
+    "Masculino": 42,
+    "Total Becados": 121
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14107,
+    "Nombre Comuna Domicilio Familiar": "PAILLACO",
+    "Femenino": 22,
+    "Masculino": 12,
+    "Total Becados": 34
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14108,
+    "Nombre Comuna Domicilio Familiar": "PANGUIPULLI",
+    "Femenino": 188,
+    "Masculino": 73,
+    "Total Becados": 261
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14201,
+    "Nombre Comuna Domicilio Familiar": "LA UNIÓN",
+    "Femenino": 115,
+    "Masculino": 53,
+    "Total Becados": 168
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14202,
+    "Nombre Comuna Domicilio Familiar": "FUTRONO",
+    "Femenino": 32,
+    "Masculino": 25,
+    "Total Becados": 57
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14203,
+    "Nombre Comuna Domicilio Familiar": "LAGO RANCO",
+    "Femenino": 64,
+    "Masculino": 39,
+    "Total Becados": 103
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE LOS RIOS",
+    "ID Comuna": 14204,
+    "Nombre Comuna Domicilio Familiar": "RÍO BUENO",
+    "Femenino": 102,
+    "Masculino": 51,
+    "Total Becados": 153
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ARICA Y PARINACOTA",
+    "ID Comuna": 15101,
+    "Nombre Comuna Domicilio Familiar": "ARICA",
+    "Femenino": 817,
+    "Masculino": 341,
+    "Total Becados": 1158
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ARICA Y PARINACOTA",
+    "ID Comuna": 15102,
+    "Nombre Comuna Domicilio Familiar": "CAMARONES",
+    "Femenino": 6,
+    "Masculino": 11,
+    "Total Becados": 17
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ARICA Y PARINACOTA",
+    "ID Comuna": 15201,
+    "Nombre Comuna Domicilio Familiar": "PUTRE",
+    "Femenino": 15,
+    "Masculino": 8,
+    "Total Becados": 23
+  },
+  {
+    "Nombre Región Domicilio Familiar": "REGION DE ARICA Y PARINACOTA",
+    "ID Comuna": 15202,
+    "Nombre Comuna Domicilio Familiar": "GENERAL LAGOS",
+    "Femenino": 4,
+    "Masculino": 1,
+    "Total Becados": 5
+  }
+]
