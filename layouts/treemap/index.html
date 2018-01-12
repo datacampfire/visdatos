@@ -32,7 +32,7 @@
 <script>
 
 
-d3.json("data.json", function(error, ourdata) {
+d3.json("Becaindigena_Superior_2016.json", function(error, ourdata) {
   if (error) return console.error(error);
   make_viz(ourdata);
 });
@@ -42,9 +42,13 @@ function make_viz(data){
       .container("#viz")
       .data(data)
       .type("tree_map")
-      .id("name")
-      .size("value")
+      .id("") // Escoger categoria
+      .size("") // Escoger el tamaño de cada categoria
       .draw()
 }
+
+//// Recomendación:
+// id, Nombre Región Domicilio Familiar
+// size, Total Becados
 
 </script>

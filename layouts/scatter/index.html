@@ -12,7 +12,7 @@
 }
 
 #viz {
-  width: 65%;
+  width: 100%;
   float: right;
   margin: 0 auto;
 }
@@ -23,8 +23,8 @@
 }
 
 .d3plus_label {
-  font-size: 0.5em;
-  fill: rgba(255,255,255,.0);
+  font-size: 0.3em;
+  fill: rgba(0,0,0,1);
 }
 </style>
 
@@ -41,7 +41,7 @@
 
 <script>
 
-d3.json("data.json", function(error, ourdata) {
+d3.json("countries.json", function(error, ourdata) {
   if (error) return console.error(error);
   make_viz(ourdata);
 });
@@ -51,10 +51,15 @@ function make_viz(data){
   .container("#viz")
   .data(data)
   .type("scatter")
-  .id("type")
-  .x("value")
-  .y("weight")
+  .id("type") // identificador unico de los datos
+  .x("industria") // variable eje x
+  .y("serivicios") // variable eje y
   .draw()
 }
+
+//// Recomendacion
+// id, type
+// x, industria
+// y, servicios
 
 </script>

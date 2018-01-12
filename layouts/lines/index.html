@@ -28,7 +28,8 @@
 
 <script>
 
-    d3.json("data.json", function(error, ourdata) {
+    // d3.json("data.json", function(error, ourdata) {
+    d3.json(".json", function(error, ourdata) {
       if (error) return console.error(error);
       make_viz(ourdata);
     });
@@ -38,10 +39,10 @@
           .container("#viz")
           .data(data)
           .type("line")
-          .id("name")
-          .text("name")
-          .y("value")
-          .x("year")
+          .id("RBD")
+          .text("ALTA")
+          .y("ALTA")
+          .x("AÑO")
           .draw()
     }
 

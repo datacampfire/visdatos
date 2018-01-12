@@ -1,0 +1,571 @@
+[{
+  "type": "node",
+  "label": "Egypt",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 11001000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Nigeria",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 17578000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Somalia",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 6346000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Sudan",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 5172000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Angola",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 4772000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Egypt",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 4387000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Tanzania",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 4364541,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Ivory Coast",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 4125000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "South Africa",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 3670000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "Democratic Republic of the Congo",
+  "cluster": "Africa",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Africa",
+    "size": 0
+  },
+  "size": 8754000,
+  "color": "Africa"
+}, {
+  "type": "node",
+  "label": "China",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 21516000,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "China",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 15200000,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "Japan",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 13513734,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "China",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 13080500,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "India",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 12442373,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "China",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 10467400,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "Indonesia",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 10075310,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "China",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 24256800,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "Pakistan",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 23500000,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "India",
+  "cluster": "Asia",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Asia",
+    "size": 0
+  },
+  "size": 16787941,
+  "color": "Asia"
+}, {
+  "type": "node",
+  "label": "Turkey",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 14025646,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Russia",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 12330126,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "United Kingdom",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 8673713,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Russia",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 5225690,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Germany",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 3562166,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Spain",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 3165235,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Ukraine",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 2909491,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Italy",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 2874038,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "France",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 2241346,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Belarus",
+  "cluster": "Europe",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "Europe",
+    "size": 0
+  },
+  "size": 1949400,
+  "color": "Europe"
+}, {
+  "type": "node",
+  "label": "Mexico",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 8918653,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "Canada",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 2826498,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "United States",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 2720546,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "United States",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 2296224,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "Cuba",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 2117625,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "Canada",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 1753034,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "Mexico",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 1677678,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "United States",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 1567442,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "United States",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 8550405,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "United States",
+  "cluster": "North America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "North America",
+    "size": 0
+  },
+  "size": 3971883,
+  "color": "North America"
+}, {
+  "type": "node",
+  "label": "Brazil",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 11967825,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Peru",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 8894412,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Colombia",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 7862277,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Brazil",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 6476631,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Chile",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 5507282,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Venezuela",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 3289886,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Argentina",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 3054267,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Brazil",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 2921087,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Brazil",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 2914830,
+  "color": "South America"
+}, {
+  "type": "node",
+  "label": "Brazil",
+  "cluster": "South America",
+  "clusterObject": {
+    "type": "cluster",
+    "cluster": "South America",
+    "size": 0
+  },
+  "size": 2591188,
+  "color": "South America"
+}, {
+  "type": "cluster",
+  "cluster": "Africa",
+  "size": 0
+}, {
+  "type": "cluster",
+  "cluster": "Asia",
+  "size": 0
+}, {
+  "type": "cluster",
+  "cluster": "Europe",
+  "size": 0
+}, {
+  "type": "cluster",
+  "cluster": "North America",
+  "size": 0
+}, {
+  "type": "cluster",
+  "cluster": "South America",
+  "size": 0
+}]

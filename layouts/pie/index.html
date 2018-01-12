@@ -30,7 +30,7 @@
 
 <script>
 
-    d3.json("data.json", function(error, ourdata) {
+    d3.json("Entregas_MCPA_2016.json", function(error, ourdata) {
       if (error) return console.error(error);
       make_viz(ourdata);
     });
@@ -40,9 +40,13 @@
           .container("#viz")
           .data(data)
           .type("pie")
-          .id("name")
-          .size("value")
+          .id("") // Escoger nombre categoria
+          .size("") // Tamaño de la categoria
           .draw()
     }
+
+    //// Recomendación:
+    // id,Nombre Comuna
+    // size, Total Estudiantes
 
 </script>

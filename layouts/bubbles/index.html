@@ -28,7 +28,7 @@
 
 <script>
 
-    d3.json("data.json", function(error, ourdata) {
+    d3.json("cities.json", function(error, ourdata) {
       if (error) return console.error(error);
       make_viz(ourdata);
     });
@@ -37,11 +37,16 @@
       var visualization = d3plus.viz()
           .container("#viz")
           .data(data)
-          .type("bubbles")
-          .id(["group", "name"])
-          .depth(1)
-          .size("value")
-          .color("group")
+          .type("bubbles") // Escoge el tipo de visualizacion
+          .id(["", ""]) // Escoge la agrupación y el nombre del nodo
+          .depth(1) // cuantos niveles o grupos dentro de otro grupo
+          .size("") // peso o tamaño de los nodos
+          .color("") // color de cada cluster
           .draw()
+
+          //// Sugerencia
+          //id, ['cluster','label']
+          //size, size
+          //color, color
     }
 </script>

@@ -1,0 +1,677 @@
+[
+  {
+    "Código Establecimiento": 5,
+    "Nombre Establecimiento": "JOVINA NARANJO FERNANDEZ",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 10,
+    "Masculino": 19,
+    "Total Estudiantes": 29
+  },
+  {
+    "Código Establecimiento": 8,
+    "Nombre Establecimiento": "COLEGIO INTEGRADO EDUARDO FREI MONTALVA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 13,
+    "Masculino": 11,
+    "Total Estudiantes": 24
+  },
+  {
+    "Código Establecimiento": 9,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA DE ISRAEL",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 72,
+    "Masculino": 78,
+    "Total Estudiantes": 150
+  },
+  {
+    "Código Establecimiento": 10,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA DE FRANCIA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 16,
+    "Masculino": 0,
+    "Total Estudiantes": 16
+  },
+  {
+    "Código Establecimiento": 11,
+    "Nombre Establecimiento": "ESC. GRAL. PEDRO LAGOS MARCHANT",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 21,
+    "Masculino": 17,
+    "Total Estudiantes": 38
+  },
+  {
+    "Código Establecimiento": 12,
+    "Nombre Establecimiento": "ESCUELA GRAL JOSE MIGUEL CARRERA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 20,
+    "Masculino": 11,
+    "Total Estudiantes": 31
+  },
+  {
+    "Código Establecimiento": 13,
+    "Nombre Establecimiento": "ESCUELA MANUEL RODRIGUEZ ERDOYZA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 8,
+    "Masculino": 17,
+    "Total Estudiantes": 25
+  },
+  {
+    "Código Establecimiento": 14,
+    "Nombre Establecimiento": "ESCUELA ROMULO J. PENA MATURANA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 8,
+    "Masculino": 17,
+    "Total Estudiantes": 25
+  },
+  {
+    "Código Establecimiento": 15,
+    "Nombre Establecimiento": "LICEO ARTISTICO DR. JUAN NOE CREVANI",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 19,
+    "Masculino": 18,
+    "Total Estudiantes": 37
+  },
+  {
+    "Código Establecimiento": 16,
+    "Nombre Establecimiento": "ESCUELA REGIMIENTO RANCAGUA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 9,
+    "Masculino": 14,
+    "Total Estudiantes": 23
+  },
+  {
+    "Código Establecimiento": 17,
+    "Nombre Establecimiento": "ESCUELA SUBTTE. LUIS CRUZ MARTINEZ",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 16,
+    "Masculino": 14,
+    "Total Estudiantes": 30
+  },
+  {
+    "Código Establecimiento": 18,
+    "Nombre Establecimiento": "ESC. COMTE. JUAN JOSE SAN MARTIN",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 17,
+    "Masculino": 22,
+    "Total Estudiantes": 39
+  },
+  {
+    "Código Establecimiento": 19,
+    "Nombre Establecimiento": "ESC. HUMBERTO VALENZUELA GARCIA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 24,
+    "Masculino": 15,
+    "Total Estudiantes": 39
+  },
+  {
+    "Código Establecimiento": 20,
+    "Nombre Establecimiento": "ESCUELA TUCAPEL",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 14,
+    "Masculino": 29,
+    "Total Estudiantes": 43
+  },
+  {
+    "Código Establecimiento": 22,
+    "Nombre Establecimiento": "ESCUELA GABRIELA MISTRAL",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 39,
+    "Masculino": 48,
+    "Total Estudiantes": 87
+  },
+  {
+    "Código Establecimiento": 25,
+    "Nombre Establecimiento": "COLEGIO CENTENARIO DE ARICA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 22,
+    "Masculino": 23,
+    "Total Estudiantes": 45
+  },
+  {
+    "Código Establecimiento": 26,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA DE ARGENTINA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 7,
+    "Masculino": 10,
+    "Total Estudiantes": 17
+  },
+  {
+    "Código Establecimiento": 27,
+    "Nombre Establecimiento": "ESCUELA ESMERALDA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 11,
+    "Masculino": 18,
+    "Total Estudiantes": 29
+  },
+  {
+    "Código Establecimiento": 28,
+    "Nombre Establecimiento": "ESCUELA RICARDO SILVA ARRIAGADA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 35,
+    "Masculino": 30,
+    "Total Estudiantes": 65
+  },
+  {
+    "Código Establecimiento": 29,
+    "Nombre Establecimiento": "ESCUELA AMERICA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 23,
+    "Masculino": 27,
+    "Total Estudiantes": 50
+  },
+  {
+    "Código Establecimiento": 31,
+    "Nombre Establecimiento": "ESCUELA DARIO SALAS DIAZ",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 20,
+    "Masculino": 21,
+    "Total Estudiantes": 41
+  },
+  {
+    "Código Establecimiento": 32,
+    "Nombre Establecimiento": "LICEO AGRICOLA JOSE ABELARDO NUNEZ M.",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 22,
+    "Masculino": 25,
+    "Total Estudiantes": 47
+  },
+  {
+    "Código Establecimiento": 33,
+    "Nombre Establecimiento": "ESCUELA CARLOS CONDELL DE LA HAZA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 10,
+    "Masculino": 10,
+    "Total Estudiantes": 20
+  },
+  {
+    "Código Establecimiento": 36,
+    "Nombre Establecimiento": "ESCUELA IGNACIO CARRERA PINTO",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 16,
+    "Masculino": 19,
+    "Total Estudiantes": 35
+  },
+  {
+    "Código Establecimiento": 38,
+    "Nombre Establecimiento": "ESCUELA ESPAÑA",
+    "ID Comuna": 15101,
+    "Nombre Comuna": "ARICA",
+    "Femenino": 20,
+    "Masculino": 20,
+    "Total Estudiantes": 40
+  },
+  {
+    "Código Establecimiento": 2734,
+    "Nombre Establecimiento": "COLEGIO ALESSANDRI",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 12,
+    "Masculino": 33,
+    "Total Estudiantes": 45
+  },
+  {
+    "Código Establecimiento": 2735,
+    "Nombre Establecimiento": "ESCUELA PRESIDENTE J.M.BALMACEDA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 8,
+    "Masculino": 15,
+    "Total Estudiantes": 23
+  },
+  {
+    "Código Establecimiento": 2736,
+    "Nombre Establecimiento": "ESCUELA PALESTINA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 62,
+    "Masculino": 47,
+    "Total Estudiantes": 109
+  },
+  {
+    "Código Establecimiento": 2737,
+    "Nombre Establecimiento": "COLEGIO POLIVALENTE JAPÓN",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 5,
+    "Masculino": 7,
+    "Total Estudiantes": 12
+  },
+  {
+    "Código Establecimiento": 2738,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA DE BRASIL",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 40,
+    "Masculino": 0,
+    "Total Estudiantes": 40
+  },
+  {
+    "Código Establecimiento": 2740,
+    "Nombre Establecimiento": "ESCUELA GRECIA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 18,
+    "Masculino": 14,
+    "Total Estudiantes": 32
+  },
+  {
+    "Código Establecimiento": 2741,
+    "Nombre Establecimiento": "ESCUELA ERNESTO CASTRO ARELLANO",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 0,
+    "Masculino": 24,
+    "Total Estudiantes": 24
+  },
+  {
+    "Código Establecimiento": 2742,
+    "Nombre Establecimiento": "ESC.REPUBLICA ORIENTAL DEL URUGUAY",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 24,
+    "Masculino": 30,
+    "Total Estudiantes": 54
+  },
+  {
+    "Código Establecimiento": 2744,
+    "Nombre Establecimiento": "ESCUELA ESPANA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 42,
+    "Masculino": 61,
+    "Total Estudiantes": 103
+  },
+  {
+    "Código Establecimiento": 2745,
+    "Nombre Establecimiento": "ESCUELA CATALUNA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 23,
+    "Masculino": 22,
+    "Total Estudiantes": 45
+  },
+  {
+    "Código Establecimiento": 2747,
+    "Nombre Establecimiento": "ESCUELA SAN ANTONIO",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 3,
+    "Masculino": 9,
+    "Total Estudiantes": 12
+  },
+  {
+    "Código Establecimiento": 2748,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA ARGENTINA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 22,
+    "Masculino": 22,
+    "Total Estudiantes": 44
+  },
+  {
+    "Código Establecimiento": 2749,
+    "Nombre Establecimiento": "ESCUELA AGUAS NEGRAS",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 9,
+    "Masculino": 11,
+    "Total Estudiantes": 20
+  },
+  {
+    "Código Establecimiento": 2750,
+    "Nombre Establecimiento": "ESCUELA MARIA INES RODRIGUEZ",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 3,
+    "Masculino": 6,
+    "Total Estudiantes": 9
+  },
+  {
+    "Código Establecimiento": 2751,
+    "Nombre Establecimiento": "CENTRO INTEGRADO DE EDUCACION DE ADULTOS DE CURICO",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 12,
+    "Masculino": 7,
+    "Total Estudiantes": 19
+  },
+  {
+    "Código Establecimiento": 2753,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA ESTADOS UNIDOS",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 23,
+    "Masculino": 31,
+    "Total Estudiantes": 54
+  },
+  {
+    "Código Establecimiento": 2754,
+    "Nombre Establecimiento": "ESCUELA INTERNADO POTRERO GRANDE",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 2,
+    "Masculino": 7,
+    "Total Estudiantes": 9
+  },
+  {
+    "Código Establecimiento": 2755,
+    "Nombre Establecimiento": "ESCUELA MARIA OLGA FIGUEROA LEYTON",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 13,
+    "Masculino": 16,
+    "Total Estudiantes": 29
+  },
+  {
+    "Código Establecimiento": 2756,
+    "Nombre Establecimiento": "ESCUELA DIEGO PORTALES P.",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 13,
+    "Masculino": 17,
+    "Total Estudiantes": 30
+  },
+  {
+    "Código Establecimiento": 2758,
+    "Nombre Establecimiento": "ESCUELA OSVALDO CORREA FUENZALIDA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 7,
+    "Masculino": 5,
+    "Total Estudiantes": 12
+  },
+  {
+    "Código Establecimiento": 2761,
+    "Nombre Establecimiento": "ESCUELA LA OBRA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 6,
+    "Masculino": 3,
+    "Total Estudiantes": 9
+  },
+  {
+    "Código Establecimiento": 2762,
+    "Nombre Establecimiento": "ESCUELA EL PORVENIR",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 4,
+    "Masculino": 1,
+    "Total Estudiantes": 5
+  },
+  {
+    "Código Establecimiento": 2763,
+    "Nombre Establecimiento": "ESCUELA REPUBLICA DE ITALIA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 5,
+    "Masculino": 5,
+    "Total Estudiantes": 10
+  },
+  {
+    "Código Establecimiento": 2764,
+    "Nombre Establecimiento": "ESCUELA ISLA DE MARCHANT",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 6,
+    "Masculino": 6,
+    "Total Estudiantes": 12
+  },
+  {
+    "Código Establecimiento": 2776,
+    "Nombre Establecimiento": "ESCUELA EL MAITEN",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 5,
+    "Masculino": 6,
+    "Total Estudiantes": 11
+  },
+  {
+    "Código Establecimiento": 2780,
+    "Nombre Establecimiento": "ESCUELA HOLANDA",
+    "ID Comuna": 7301,
+    "Nombre Comuna": "CURICO",
+    "Femenino": 8,
+    "Masculino": 5,
+    "Total Estudiantes": 13
+  },
+  {
+    "Código Establecimiento": 5569,
+    "Nombre Establecimiento": "LICEO GABRIELA MISTRAL DE TEMUCO",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 12,
+    "Masculino": 16,
+    "Total Estudiantes": 28
+  },
+  {
+    "Código Establecimiento": 5570,
+    "Nombre Establecimiento": "LICEO PABLO NERUDA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 51,
+    "Masculino": 36,
+    "Total Estudiantes": 87
+  },
+  {
+    "Código Establecimiento": 5575,
+    "Nombre Establecimiento": "ESCUELA ARTURO PRAT",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 24,
+    "Masculino": 45,
+    "Total Estudiantes": 69
+  },
+  {
+    "Código Establecimiento": 5578,
+    "Nombre Establecimiento": "ESCUELA LLAIMA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 46,
+    "Masculino": 52,
+    "Total Estudiantes": 98
+  },
+  {
+    "Código Establecimiento": 5580,
+    "Nombre Establecimiento": "ESCUELA CAMPOS DEPORTIVOS",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 38,
+    "Masculino": 43,
+    "Total Estudiantes": 81
+  },
+  {
+    "Código Establecimiento": 5582,
+    "Nombre Establecimiento": "ESCUELA STANDAR",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 14,
+    "Masculino": 17,
+    "Total Estudiantes": 31
+  },
+  {
+    "Código Establecimiento": 5583,
+    "Nombre Establecimiento": "ESCUELA SANTA ROSA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 11,
+    "Masculino": 11,
+    "Total Estudiantes": 22
+  },
+  {
+    "Código Establecimiento": 5585,
+    "Nombre Establecimiento": "ESCUELA VILLA ALEGRE",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 8,
+    "Masculino": 14,
+    "Total Estudiantes": 22
+  },
+  {
+    "Código Establecimiento": 5588,
+    "Nombre Establecimiento": "ESCUELA MANUEL RECABARREN",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 19,
+    "Masculino": 14,
+    "Total Estudiantes": 33
+  },
+  {
+    "Código Establecimiento": 5589,
+    "Nombre Establecimiento": "ESCUELA MILLARAY",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 16,
+    "Masculino": 12,
+    "Total Estudiantes": 28
+  },
+  {
+    "Código Establecimiento": 5590,
+    "Nombre Establecimiento": "COMPLEJO EDUC. UN AMANECER EN LA ARAUCANIA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 22,
+    "Masculino": 27,
+    "Total Estudiantes": 49
+  },
+  {
+    "Código Establecimiento": 5592,
+    "Nombre Establecimiento": "ESCUELA ANDRES BELLO",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 13,
+    "Masculino": 13,
+    "Total Estudiantes": 26
+  },
+  {
+    "Código Establecimiento": 5596,
+    "Nombre Establecimiento": "COLEGIO MUNDO MAGICO",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 46,
+    "Masculino": 46,
+    "Total Estudiantes": 92
+  },
+  {
+    "Código Establecimiento": 5597,
+    "Nombre Establecimiento": "ESCUELA ALONSO DE ERCILLA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 32,
+    "Masculino": 39,
+    "Total Estudiantes": 71
+  },
+  {
+    "Código Establecimiento": 5604,
+    "Nombre Establecimiento": "ESCUELA PEDRO DE VALDIVIA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 12,
+    "Masculino": 11,
+    "Total Estudiantes": 23
+  },
+  {
+    "Código Establecimiento": 5606,
+    "Nombre Establecimiento": "ESCUELA VILLA CAROLINA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 10,
+    "Masculino": 17,
+    "Total Estudiantes": 27
+  },
+  {
+    "Código Establecimiento": 5608,
+    "Nombre Establecimiento": "ESCUELA LOS AVELLANOS",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 7,
+    "Masculino": 13,
+    "Total Estudiantes": 20
+  },
+  {
+    "Código Establecimiento": 5611,
+    "Nombre Establecimiento": "ESCUELA LOS TRIGALES",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 17,
+    "Masculino": 26,
+    "Total Estudiantes": 43
+  },
+  {
+    "Código Establecimiento": 5614,
+    "Nombre Establecimiento": "ESCUELA LABRANZA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 14,
+    "Masculino": 11,
+    "Total Estudiantes": 25
+  },
+  {
+    "Código Establecimiento": 5620,
+    "Nombre Establecimiento": "C.E.I.A. SELVA SAAVEDRA",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 7,
+    "Masculino": 9,
+    "Total Estudiantes": 16
+  },
+  {
+    "Código Establecimiento": 5632,
+    "Nombre Establecimiento": "ESCUELA REDUCCION MONTE VERDE",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 1,
+    "Masculino": 2,
+    "Total Estudiantes": 3
+  },
+  {
+    "Código Establecimiento": 5640,
+    "Nombre Establecimiento": "ESCUELA MOLLULCO",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 4,
+    "Masculino": 4,
+    "Total Estudiantes": 8
+  },
+  {
+    "Código Establecimiento": 5645,
+    "Nombre Establecimiento": "ESCUELA BOYECO",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 14,
+    "Masculino": 21,
+    "Total Estudiantes": 35
+  },
+  {
+    "Código Establecimiento": 5647,
+    "Nombre Establecimiento": "ESCUELA COLLIMALLIN",
+    "ID Comuna": 9101,
+    "Nombre Comuna": "TEMUCO",
+    "Femenino": 7,
+    "Masculino": 1,
+    "Total Estudiantes": 8
+  }
+]

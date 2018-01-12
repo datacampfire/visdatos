@@ -28,7 +28,8 @@
 
 <script>
 
-    d3.json("data.json", function(error, ourdata) {
+    // d3.json("data.json", function(error, ourdata) {
+    d3.json("titanic.json", function(error, ourdata) {
       if (error) return console.error(error);
       make_viz(ourdata);
     });
@@ -38,11 +39,16 @@
           .container("#viz")
           .data(data)
           .type("box") // Escoge el tipo de visualizacion
-          .x("year") // Escoge la variable en el eje de las X (Categoria)
-          .y("value") // Escoge la variable en el eje de las y (Valores numericos)
-          .id("name") // Escoge el id o label de los datos
-          .time('year') // Parametro opcional para identificar la evolucion en el tiempo
+          .x("") // Escoge la variable en el eje de las X (Categoria)
+          .y("") // Escoge la variable en el eje de las y (Valores numericos)
+          .id("") // Escoge el id o label de los datos
+          // .time('year') // Parametro opcional para identificar la evolucion en el tiempo: si los datos poseen temporalidad
           .draw()
+
+          //// Sugerencia
+          //x, alive
+          //y, fare
+          //id, sex
     }
 
 </script>
